@@ -1,3 +1,4 @@
+/*6135512064 Chayaporn Sareesuk*/
 import React, { useState, useEffect, useRef } from 'react';
 export default function CharacterCard(props) {
     const [active, setActive] = useState(false);

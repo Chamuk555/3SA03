@@ -1,5 +1,8 @@
+/*6135512064 Chayaporn Sareesuk*/
 .App {
   text-align: center;
+  color: rgb(167, 83, 206);
+  background-color: violet;
 }
 
 .App-logo {
@@ -14,6 +17,7 @@
 }
 
 .App-header {
+  background-image: url("https://steamuserimages-a.akamaihd.net/ugc/858353114790671670/D6D5941E4F7D52A743FF15ABD447D3717F7B61EE/");
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -21,13 +25,14 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: rgb(24, 107, 56);
+  color: white (68, 55, 139);
 }
 
 .App-link {
   color: #61dafb;
 }
 .card {
+  color: aliceblue;
   display: inline-block;
   text-align: center;
   width: 3em;
@@ -42,7 +47,6 @@
   background: pink;
  }
  
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

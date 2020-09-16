@@ -1,3 +1,4 @@
+/*6135512064 Chayaporn Sareesuk*/
 import React, { useState, useEffect } from 'react';
 import CharacterCard from './CharacterCard';
 import _ from 'lodash';
